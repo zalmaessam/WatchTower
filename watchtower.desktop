@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=WatchTower
+Comment=WatchTower Security Monitoring System
+Exec=python3 /home/zalma/Downloads/watchtower/watchtower_integrated.py
+Icon=/home/zalma/Downloads/watchtower/app_icon.png
+Terminal=true
+Path=/home/zalma/Downloads/watchtower
+Categories=System;Security;
+Keywords=security;monitoring;network;
+StartupNotify=true 
